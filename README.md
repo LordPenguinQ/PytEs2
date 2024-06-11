@@ -173,7 +173,7 @@ os.mkdir('pictures')
 os.chdir('pictures')
 print(os.getcwd())
 -The code will print the path to the created directory
-37. # file a.py
+37. file a.py
 print("a", end='')
  file b.py
 import a
