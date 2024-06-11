@@ -42,9 +42,9 @@ choose the right to invoke the fun() function:
 9. What output will appear after running the following snippet?
 -A list of all the entities residing in the math module
 10. import random
-/#
-/# Insert lines of code here.
-/#
+
+ Insert lines of code here.
+
 print(a, b, 
 6 82 0
 -	a = random.randint(0, 100)
@@ -62,7 +62,7 @@ print(calendar.weekheader(3))
 13. class A: 
 -The code will print b
 14. numbers  [0, 2, 7, 9, 10]
-# Insert line of code here.
+ Insert line of code here.
 print(list(foo))
 [0, 4, 49, 81, 100]
 -foo = map(lambda num : num ** 2, numbers)
@@ -137,7 +137,7 @@ for x in my_fun(2):
     print(x, end='')
 -++++++
 28. numbers = [i*i for i in range(5)]
-# Insert line of code here.
+ Insert line of code here.
 print(foo)
 [1, 9]
 -foo = list(filter(lambda x: x % 2, numbers))
@@ -175,10 +175,10 @@ print(os.getcwd())
 -The code will print the path to the created directory
 37. # file a.py
 print("a", end='')
-# file b.py
+ file b.py
 import a
 print("b", end='')
-# file c.py
+ file c.py
 print("c", end='')
 import a
 import b
