@@ -42,9 +42,9 @@ choose the right to invoke the fun() function:
 9. What output will appear after running the following snippet?
 -A list of all the entities residing in the math module
 10. import random
-#
-# Insert lines of code here.
-#
+/#
+/# Insert lines of code here.
+/#
 print(a, b, 
 6 82 0
 -	a = random.randint(0, 100)
