@@ -148,7 +148,7 @@ print(foo)
 r = o(1)
 s = o(2)
 print(r() + s())
--***
+- 3 gwiazdki
 30. The following statement:
 from a.b import c
 causes the import of:
